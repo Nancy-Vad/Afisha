@@ -1,0 +1,6 @@
+.env
+.git/
+.ipynb_checkpoints/
+.virtual_documents/
+Untitled.ipynb
+myvenv/
